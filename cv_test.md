@@ -35,7 +35,7 @@ Jeune professionnel ayant de l'expérience en service clientèle et administrati
 
 ## Implications personnelles
 
-*2024-Présent* Création de contenus vidéo sur les réseaux sociaux
+*2024-Présent* : Création de contenus vidéo sur les réseaux sociaux
 
-*2022-Présent* Pianiste semi-professionnel
+*2022-Présent* : Pianiste semi-professionnel
 
