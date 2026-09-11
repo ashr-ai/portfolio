@@ -338,6 +338,7 @@ a {
     }
 
     .hero h1 {
+        max-width: 800px;
         letter-spacing: -2px;
     }
 
@@ -567,4 +568,107 @@ footer {
 a:hover~.cursor {
     width: 30px;
     height: 30px;
+}
+
+/* CSS Phone */
+@media (max-width: 440px) {
+
+    .navbar {
+        padding: 18px 5%;
+    }
+
+    .logo {
+        font-size: 1rem;
+    }
+
+    .navbar nav {
+        gap: 12px;
+        font-size: 0.8rem;
+    }
+
+    .hero {
+        min-height: 70vh;
+        padding: 70px 5%;
+    }
+
+    .hero-intro {
+        font-size: 0.75rem;
+        letter-spacing: 2px;
+    }
+
+    .hero h1 {
+        font-size: 3.2rem;
+        line-height: 0.95;
+        letter-spacing: -2px;
+    }
+
+    .hero-description {
+        margin-top: 30px;
+        font-size: 0.95rem;
+    }
+
+    .hero-boutons {
+        margin-top: 30px;
+    }
+
+    .hero-button {
+        padding: 12px 20px;
+        font-size: 0.9rem;
+    }
+
+    .projects,
+    .about,
+    .contact {
+        padding: 70px 5%;
+    }
+
+    .section-heading {
+        margin-bottom: 40px;
+    }
+
+    .section-heading p {
+        font-size: 0.7rem;
+        letter-spacing: 2px;
+    }
+
+    .project-card {
+        min-height: 280px;
+        padding: 25px;
+    }
+
+    .project-card h3 {
+        font-size: 1.6rem;
+    }
+
+    .project-card p {
+        font-size: 0.9rem;
+    }
+
+    .about h2,
+    .contact h2 {
+        font-size: 2.5rem;
+        letter-spacing: -1px;
+    }
+
+    .about p,
+    .contact p {
+        font-size: 0.7rem;
+        letter-spacing: 2px;
+    }
+
+    .skill-category {
+        padding: 25px;
+    }
+
+    .skill-category h3 {
+        font-size: 1.1rem;
+    }
+
+    .contact a {
+        font-size: 0.9rem;
+    }
+
+    footer {
+        font-size: 0.7rem;
+    }
 }
