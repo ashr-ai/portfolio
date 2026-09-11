@@ -363,12 +363,6 @@ a {
     border-top: 1px solid #292929;
 }
 
-.about h2 {
-    margin-top: 10px;
-    font-size: 4rem;
-    letter-spacing: -2px;
-}
-
 .about p {
     margin-bottom: 10px;
     font-size: 0.8rem;
@@ -488,7 +482,6 @@ footer {
 
 @media (max-width: 768px) {
 
-    .about h2,
     .contact h2 {
         font-size: 3rem;
     }
@@ -644,7 +637,6 @@ a:hover~.cursor {
         font-size: 0.9rem;
     }
 
-    .about h2,
     .contact h2 {
         font-size: 2.5rem;
         letter-spacing: -1px;
