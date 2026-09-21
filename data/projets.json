@@ -1,12 +1,4 @@
 {
-  "docu-fiction": {
-    "github": "https://github.com/ashr-ai/devweb01/tree/main/semaine-13/docu-fiction",
-    "demo": "https://docufiction.netlify.app/"
-  },
-  "abm": {
-    "github": "https://github.com/ashr-ai/devweb01/tree/main/semaine-14/projetwebABM",
-    "demo": "https://projetwebabm.netlify.app/"
-  },
   "eclipse": {
     "github": "https://github.com/ashr-ai/devweb01/tree/main/semaine-15_Projets-autonomes/P1",
     "demo": "https://festivaleclipse.netlify.app/"
@@ -22,5 +14,13 @@
   "prof-isobare": {
     "github": "https://github.com/ashr-ai/ia01/tree/main/test3_chatbox",
     "demo": "https://professeurisobare.netlify.app/"
+  },
+  "habit-tracker": {
+    "github": "https://github.com/ashr-ai/react/tree/main/habit-tracker-wds",
+    "demo": ""
+  },
+  "gosec": {
+    "github": "https://github.com/ManelBenH/gosec_site",
+    "demo": "https://gosecweb.netlify.app/"
   }
 }

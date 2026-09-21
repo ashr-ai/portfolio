@@ -229,7 +229,7 @@ a {
     font-size: 0.8rem;
     letter-spacing: 3px;
     text-transform: uppercase;
-    opacity: 0.5;
+    opacity: 0.85;
 }
 
 .section-heading p:last-child {
@@ -368,13 +368,13 @@ a {
     font-size: 0.8rem;
     letter-spacing: 3px;
     text-transform: uppercase;
-    opacity: 0.5;
+    opacity: 0.85;
 }
 
 .about>p:nth-of-type(2) {
     max-width: 1100px;
     margin-top: 30px;
-    /* font-size: 1.2rem; */
+    opacity: 0.5;
 }
 
 .skills {
@@ -439,7 +439,7 @@ a {
     font-size: 0.8rem;
     letter-spacing: 3px;
     text-transform: uppercase;
-    opacity: 0.5;
+    opacity: 0.85;
 }
 
 .contact h2 {
