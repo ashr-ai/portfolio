@@ -1,5 +1,9 @@
 /* RESET */
 
+:root {
+    --accent: #4D7CFE;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -44,7 +48,7 @@ body>* {
     opacity: 0;
     filter: blur(1px);
     box-shadow: 0 0 18px 5px rgba(255, 255, 255, 0.25);
-    animation: lightAppear 8s ease-in-out infinite;
+    animation: lightAppear 8s linear infinite;
 }
 
 .background-lights span:nth-child(1) {
@@ -209,8 +213,9 @@ a {
 }
 
 .hero-button:hover {
-    background: #f5f5f5;
-    color: #0d0d0d;
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
 }
 
 /* PROJECTS */
@@ -415,8 +420,9 @@ a {
 }
 
 .skill-category span:hover {
-    background: #f5f5f5;
-    color: #0d0d0d;
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
 }
 
 @media (max-width: 768px) {
