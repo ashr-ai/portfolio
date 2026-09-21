@@ -17,7 +17,7 @@
   },
   "habit-tracker": {
     "github": "https://github.com/ashr-ai/react/tree/main/habit-tracker-wds",
-    "demo": ""
+    "demo": "https://habit-tracker-wds.netlify.app/"
   },
   "gosec": {
     "github": "https://github.com/ManelBenH/gosec_site",
