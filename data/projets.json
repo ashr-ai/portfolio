@@ -20,7 +20,7 @@
     "demo": "https://habit-tracker-wds.netlify.app/"
   },
   "gosec": {
-    "github": "https://github.com/ManelBenH/gosec_site",
-    "demo": "https://gosecweb.netlify.app/"
+    "github": "https://github.com/ashr-ai/gosec_site",
+    "demo": "https://gosec.netlify.app/"
   }
 }
